@@ -2,6 +2,7 @@
 
 The most recent version of the guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
+This project is a personal fork from a functional group project, to practice code patterns and good develpment design. 
 ## Installation and Running
 ```
 npm install
